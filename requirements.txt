@@ -10,3 +10,4 @@ django-bootstrap4
 djangorestframework
 django-social-auth
 django-shop
+django-app-metrics
